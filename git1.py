@@ -1,0 +1,2 @@
+a="helloo"
+print(a)
